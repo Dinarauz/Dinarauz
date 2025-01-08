@@ -1,9 +1,9 @@
 ## Hi 👋 I am Dinara!
 
-- 💼 I’m a Data Analyst working at QCC as a Project Coordinator
-- 🌱 I’m currently working on different projects.
-- 📚 I studied Data Analytics in Baruch College
-- 📫 My LinkedIn: www.linkedin.com/in/dinara-ibotova-a34661265
+- 💼 Current Role: Data Analyst and Project Coordinator at QCC
+- 🌱 Passion Projects: Exploring and working on fun, creative data projects
+- 📚 Education: Data Analytics graduate from Baruch College
+- 📫 Connect with me:www.linkedin.com/in/dinara-ibotova-a34661265
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I started out studying Marketing, but in my final semester, I changed my major after falling in love with uncovering the mysteries of data.
+- ⚡ Fun fact: I started my journey studying Marketing, but in my final semester, I fell in love with the mysteries of data and switched my major to Data Analytics.
 
