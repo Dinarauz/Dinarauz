@@ -7,3 +7,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I started my journey studying Marketing, but in my final semester, I fell in love with the mysteries of data and switched my major to Data Analytics.
 
+- Projects I have done recently: 
