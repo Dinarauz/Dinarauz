@@ -1,4 +1,4 @@
-## Hi 👋 I am Dinara!
+# Hi 👋 I am Dinara!
 
 - 💼 Current Role: Data Analyst and Project Coordinator at QCC
 - 🌱 Passion Projects: Exploring and working on fun, creative data projects
