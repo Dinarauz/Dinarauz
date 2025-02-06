@@ -1,5 +1,7 @@
 # Hi 👋 I am Dinara!
 
+![octocat-1738820062265](https://github.com/user-attachments/assets/5230cef6-6a50-4767-8d6a-4dda706e14ea)
+
 - 💼 Current Role: Project Coordinator at QCC
 - 🌱 Passion Projects: Exploring and working on fun, creative data projects
 - 📚 Education: Data Analytics graduate from Baruch College
