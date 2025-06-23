@@ -1,4 +1,4 @@
-![Hi I’m Dinara](https://github.com/user-attachments/assets/6aff43d9-8ae1-4727-a3e8-b39f30964ea5)
+![Hi I’m Dinara-2](https://github.com/user-attachments/assets/cae81f4a-1a47-4c00-aa30-7fdab231a847)
 
 # 💻 Tech Stack:
 # 💫 About Me:
