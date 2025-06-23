@@ -1,5 +1,4 @@
-![Hi my name is Dinara!-2](https://github.com/user-attachments/assets/4295274e-69da-4fa1-ae1c-855813de442b)
-![octocat-1750482820627](https://github.com/user-attachments/assets/d0f96072-64c9-4243-98f4-569ff174fdf1)
+![Hi I’m Dinara](https://github.com/user-attachments/assets/6aff43d9-8ae1-4727-a3e8-b39f30964ea5)
 
 # 💻 Tech Stack:
 # 💫 About Me:
